@@ -30,7 +30,7 @@ The Library Management System is a database-driven project designed to automate 
   - Database schema design
   - System functionalities and extended features
 
-### **Database Schema & SQL Scripts** (`Code.sql`)
+### **Database Schema & SQL Scripts** (`SqlCode.sql`)
 - **SQL scripts** to create and manage the database.
 - Includes:
   - Table creation (`CREATE TABLE`)
@@ -62,6 +62,8 @@ The Library Management System is a database-driven project designed to automate 
 
 ---
 
+## Database ER Diagram:
+![ER Diagram](https://github.com/Paidigumal-Vivek/Library-Management-System/blob/main/Database%20ER%20Diagram.jpeg)
 ## Installation & Usage
 
 ### **Set up MySQL**
